@@ -1,5 +1,5 @@
 import './App.css'
-// import React from 'react'
+import React from 'react'
 import ShopItemFunc from './components/ShopItemFunc';
 
 const item = {
